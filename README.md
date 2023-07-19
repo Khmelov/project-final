@@ -1,4 +1,4 @@
-## [REST API](http://localhost:8080/doc)
+## [REST API](http://localhost:8080/doc) ...
 
 ## Концепция:
 
